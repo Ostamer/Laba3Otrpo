@@ -1,1 +1,7 @@
-vk1.a.K7UA4ggFkPyTm-jq5LCOsxrN_OZI2eHeAqItuRZ8UWTUK5lfa1j6Ih7dHsImjsUyEB2Ho0cQh1vuDJQSeppWkQ1zFwWvfeGp-nIQQNKnnFCEGEhwxURyVsBpXCSwAFY__Hl6NOXJNIOckGgukjAxSisLJpXh-ZzDtd2XaS5lp1xV-5R0JbkSx5EtbkLKGRSq
+certifi==2024.8.30
+charset-normalizer==3.4.0
+idna==3.10
+python-dotenv==1.0.1
+requests==2.32.3
+setuptools==75.5.0
+urllib3==2.2.3
